@@ -12,6 +12,40 @@ Because this version was reconstructed from the original executable, the project
 
 ---
 
+## 🕹️ Game Overview
+*Wave* is a fast-paced **bullet hell** with roguelike elements.  
+It features:
+- **30 levels** of escalating difficulty.  
+- **3 unique bosses**, each with distinct attack patterns.  
+- **Two modes**:  
+  - *Normal Mode* – standard progression.  
+  - *Hard Mode* – tougher enemies and mirrored (“specular”) bosses for an extra challenge.  
+
+---
+
+## 💡 Core Features
+- **Endless Upgrade Shop**  
+  Earn points by defeating bosses and surviving waves, then spend them on infinite upgrades to push further each run.  
+
+- **Character Skins**  
+  Choose from several premade skins during character selection.  
+
+- **Roguelike Gameplay**  
+  Each playthrough starts fresh — no upgrades carry over between runs, keeping the challenge alive.  
+
+---
+
+## 🎥 Demonstration
+*TODO*
+
+---
+
+## 🚧 Future Development
+I am currently working on a **Unity DOTS reimagining** of *Wave*, evolving it into a **roguelite** with persistent progression between runs.  
+- The repository is private for now.  
+- It will be made public once the first alpha is playable.  
+---
+
 ## 🎮 Download the Executable
 You can download the original `.exe` here:  
 👉 [Wave Executable (OneDrive link)](https://1drv.ms/u/c/8faeeef443a62027/EScgpkP07q4ggI9JMAAAAAABFAWXpx1XOq97Exvb6OI6BQ?e=6jNxmX)
