@@ -1,18 +1,38 @@
-## Getting Started
+# Wave (Decompiled High School Project)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This repository contains a **decompiled and partially restored version** of *Wave*, a game I originally developed during high school.  
+Because this version was reconstructed from the original executable, the project is **not buildable from source**. The code is provided here for **portfolio and archival purposes only**, to demonstrate my ability to recover, refactor, and document legacy projects.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## ⚠️ Important Notes
+- This is **not the original source code** — it was decompiled and cleaned up for readability.  
+- The project cannot be compiled into a working build.  
+- To experience the game, you’ll need to run the original executable.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🎮 Download the Executable
+You can download the original `.exe` here:  
+👉 [Wave Executable (OneDrive link)](https://1drv.ms/u/c/8faeeef443a62027/EScgpkP07q4ggI9JMAAAAAABFAWXpx1XOq97Exvb6OI6BQ?e=6jNxmX)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 📂 Repository Purpose
+This repo is meant to:
+- Showcase my **code recovery and documentation workflow**.  
+- Demonstrate how I handle **legacy projects** with missing or corrupted source.  
+- Provide a clear example of my **technical resilience and growth** since high school.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🔧 Technical Notes
+- Decompiled from the original `.exe` using Java decompilation tools.  
+- Refactored for readability and maintainability.  
+- Documented with comments and structured into a professional folder hierarchy.  
+
+---
+
+## 📜 License
+This project is shared for **educational and portfolio purposes only**.  
+Please do not redistribute the binary or use the code for commercial purposes.
