@@ -39,11 +39,11 @@ It features:
 
 | Character Selection | Intermission | First Bossfight |
 |---------------------|--------------|-----------------|
-| <img src="Media/Wave-Character_selection.gif" width="300"/> | <img src="Media/Wave-gameplay_intermission.gif" width="300"/> | <img src="Media/Wave-Gameplay_bossfight.gif" width="300"/> |
+| <img src="Media/Wave-Character_selection.gif" width="250"/> | <img src="Media/Wave-gameplay_intermission.gif" width="250"/> | <img src="Media/Wave-Gameplay_bossfight.gif" width="250"/> |
 
 | Specular Bossfight | Game Over |
 |--------------------|-----------|
-| <img src="Media/Wave-Gameplay_bossfight-specular.gif" width="300"/> | <img src="Media/Wave_Game-over.gif" width="300"/> |
+| <img src="Media/Wave-Gameplay_bossfight-specular.gif" width="250"/> | <img src="Media/Wave_Game-over.gif" width="250"/> |
 
 ---
 
