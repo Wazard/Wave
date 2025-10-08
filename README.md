@@ -36,8 +36,15 @@ It features:
 ---
 
 ## 🎥 Demonstration
-*TODO*
+![Character Selection](media/Wave-Character_selection.gif)
 
+![Intermission](media/Wave-gameplay_intermission.gif)
+
+![First Bossfight](media/Wave-Gameplay_bossfight.gif)
+
+![First Specular Bossfight](media/Wave-Gameplay_bossfight-specular.gif)
+
+![Game Over](media/Wave-Game-over.gif)
 ---
 
 ## 🚧 Future Development
