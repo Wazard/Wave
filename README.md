@@ -36,28 +36,30 @@ It features:
 ---
 
 ## 🎥 Demonstration
-![Character Selection](Media/Wave-Character_selection.gif)
 
-![Intermission](Media/Wave-gameplay_intermission.gif)
+| Character Selection | Intermission | First Bossfight |
+|---------------------|--------------|-----------------|
+| <img src="Media/Wave-Character_selection.gif" width="200"/> | <img src="Media/Wave-gameplay_intermission.gif" width="200"/> | <img src="Media/Wave-Gameplay_bossfight.gif" width="200"/> |
 
-![First Bossfight](Media/Wave-Gameplay_bossfight.gif)
-
-![First Specular Bossfight](Media/Wave-Gameplay_bossfight-specular.gif)
-
-![Game Over](Media/Wave-Game-over.gif)
+| Specular Bossfight | Game Over |
+|--------------------|-----------|
+| <img src="Media/Wave-Gameplay_bossfight-specular.gif" width="200"/> | <img src="Media/Wave_Game-over.gif" width="200"/> |
 
 ---
 
-## 🚧 Future Development
-I am currently working on a **Unity DOTS reimagining** of *Wave*, evolving it into a **roguelite** with persistent progression between runs.  
-- The repository is private for now.  
-- It will be made public once the first alpha is playable.  
 ---
 
 ## 🎮 Download the Executable
 You can download the original `.exe` here:  
 👉 [Wave Executable (OneDrive link)](https://1drv.ms/u/c/8faeeef443a62027/EScgpkP07q4ggI9JMAAAAAABFAWXpx1XOq97Exvb6OI6BQ?e=6jNxmX)
 
+---
+
+## 🚧 Future Development
+I am currently working on a **Unity DOTS reimagining** of *Wave*, evolving it into a **roguelite** with persistent progression between runs.  
+- The repository is private for now.  
+- It will be made public once the first alpha is playable.
+  
 ---
 
 ## 📂 Repository Purpose
