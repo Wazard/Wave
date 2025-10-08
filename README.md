@@ -45,6 +45,7 @@ It features:
 ![First Specular Bossfight](Media/Wave-Gameplay_bossfight-specular.gif)
 
 ![Game Over](Media/Wave-Game-over.gif)
+
 ---
 
 ## 🚧 Future Development
