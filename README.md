@@ -47,14 +47,6 @@ It features:
 
 ---
 
----
-
-## 🎮 Download the Executable
-You can download the original `.exe` here:  
-👉 [Wave Executable (OneDrive link)](https://1drv.ms/u/c/8faeeef443a62027/EScgpkP07q4ggI9JMAAAAAABFAWXpx1XOq97Exvb6OI6BQ?e=6jNxmX)
-
----
-
 ## 🚧 Future Development
 I am currently working on a **Unity DOTS reimagining** of *Wave*, evolving it into a **roguelite** with persistent progression between runs.  
 - The repository is private for now.  
